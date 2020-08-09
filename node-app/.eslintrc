@@ -1,0 +1,9 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 2018
+  },
+  "rules": {
+    "my-eslint-rules/array-anonymous-callback-function": "error"
+  },
+  "plugins": ["my-eslint-rules"]
+}
